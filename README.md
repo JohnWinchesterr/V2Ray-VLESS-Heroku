@@ -14,7 +14,7 @@ Uma vez instalado, o <b>V2Ray</b> sempre será executado com a versão mais rece
 
  1. Fork este projeto para sua própria conta do GitHub (nome de usuário é um `exemplo`)
  2. Modifique o nome do projeto, tome cuidado para não incluir as palavras-chave `v2ray` e `heroku` (o nome do projeto modificado usa demo como exemplo)
- 3. Modifique o `README.md` e substitua `bclswl0827/v2ray-heroku` pelo seu próprio conteúdo (como `exemplo/demonstração`)
+ 3. Modifique o `README.md` e substitua `JohnWinchesterr/V2ray-Vless` pelo seu próprio conteúdo (como `exemplo/demonstração`)
 
 > [![Implantar](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/JohnWinchesterr/V2ray-Vless)
 
