@@ -1,6 +1,6 @@
 # V2Ray Heroku
 
-Para implantar o V2Ray VLESS, vá para a ramificação [vless](https://github.com/bclswl0827/v2ray-heroku/tree/vless).
+Para implantar o <b>V2Ray VLESS</b>, vá para a ramificação [vless](https://github.com/bclswl0827/v2ray-heroku/tree/vless).
 
 ## Visão geral
 
@@ -38,6 +38,6 @@ Os dois métodos a seguir podem conectar o aplicativo ao CloudFlare, o que pode 
 
 ## Perceber
 
- 1. Por favor, não abuse deste projeto, existem muito poucos serviços gratuitos como Heroku, use e valorize
+ 1. Por favor, não abuse deste projeto, existem muito poucos serviços gratuitos como <b>Heroku</b>, use e valorize
  2. Se estiver usando um nome de domínio para acessar o CloudFlare, considere ativar o TLS 1.3
  3. A maioria dos endereços IPv4 da AWS são bloqueados pelo Twitter
