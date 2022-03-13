@@ -1,5 +1,4 @@
-𝕵𝖔𝖍𝖓 𝖂𝖎𝖓𝖈𝖍𝖊𝖘𝖙𝖊𝖗:
-#V2Ray Heroku
+# V2Ray Heroku
 
 Para implantar o V2Ray VLESS, vá para a ramificação [vless](https://github.com/bclswl0827/v2ray-heroku/tree/vless).
 
