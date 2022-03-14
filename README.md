@@ -1,10 +1,10 @@
-# V2Ray Heroku
+# V2Ray VLESS Heroku
 
-Para instalar o <b>V2Ray VLESS</b>, vá para a ramificação [vless](https://github.com/bclswl0827/v2ray-heroku/tree/vless).
+Para instalar o <b>V2Ray Websocket VLESS</b>.
 
 ## Visão geral
 
-Este projeto é usado para instalar o <b>V2Ray WebSocket</b> no <b>Heroku</b>. Na medida do uso razoável, esta imagem não será banida devido a uma grande quantidade de recursos.
+Este projeto é usado para instalar o <b>V2Ray WebSocket VLESS</b> no <b>Heroku</b>. Na medida do uso razoável, esta imagem não será banida devido a uma grande quantidade de recursos.
 
 Uma vez instalado, o <b>V2Ray</b> sempre será executado com a versão mais recente sempre que o aplicativo for iniciado
 
@@ -26,7 +26,7 @@ Os nomes de variáveis ​​que precisam ser definidos durante a instalação s
 
 | variável | valor padrão | descrição |
 | :--- | :--- | :--- |
-| ID | ad806487-2d26-4636-98b6-ab85cc8521f7 | ID mestre do usuário Vless, usado para autenticação, no formato UUID |
+| ID | ad806487-2d26-4636-98b6-ab85cc8521f7 | ID mestre do usuário VLESS, usado para autenticação, no formato UUID |
 | WSPATH | / | Caminho do protocolo HTTP usado pelo WebSocket |
 
 ## Acesso ao CloudFlare
