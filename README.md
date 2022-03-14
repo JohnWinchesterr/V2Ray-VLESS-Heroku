@@ -31,10 +31,10 @@ Os nomes de variáveis ​​que precisam ser definidos durante a instalação s
 
 ## Acesso ao CloudFlare
 
-Os dois métodos a seguir podem conectar o aplicativo ao CloudFlare, o que pode melhorar a velocidade até certo ponto.
+Os dois métodos a seguir podem conectar o aplicativo ao [CloudFlare](https://dash.cloudflare.com/login), o que pode melhorar a velocidade até certo ponto.
 
  1. Vincule um nome de domínio ao aplicativo e conecte o nome de domínio ao CloudFlare
- 2. Proxy reverso por meio de CloudFlare Workers
+ 2. Proxy reverso por meio de <b>CloudFlare Workers<\b>
 
 ## Atenção
 
