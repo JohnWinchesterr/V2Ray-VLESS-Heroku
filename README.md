@@ -1,7 +1,5 @@
 # V2Ray VLESS Heroku
 
-Para instalar o <b>V2Ray Websocket VLESS</b>.
-
 ## Visão geral
 
 Este projeto é usado para instalar o <b>V2Ray WebSocket VLESS</b> no <b>Heroku</b>. Na medida do uso razoável, esta imagem não será banida devido a uma grande quantidade de recursos.
